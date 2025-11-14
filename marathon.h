@@ -1,4 +1,4 @@
-//ABDULLAH ALI KHAN, CS163, PROGRAM 1, KHANAB@PDX.EDU
+//ABDULLAH ALI KHAN
 //Purpose: this file defines the structs and the class
 //
 //
